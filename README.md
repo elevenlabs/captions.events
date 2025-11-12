@@ -1,4 +1,4 @@
-# LiveCaptions
+# ElevenLabs Realtime Transcriptions for your live events
 
 Real-time captioning platform with on-device translation. Built with ElevenLabs Scribe and Supabase.
 
@@ -8,7 +8,7 @@ Real-time captioning platform with on-device translation. Built with ElevenLabs 
 
 - Real-time speech-to-text transcription (100-200ms latency)
 - Live caption broadcasting to unlimited viewers
-- On-device translation (14+ languages, Chrome 138+)
+- On-device translation with [Chrome built-in AI](https://developer.chrome.com/docs/ai/translator-api) (Chrome 138+)
 - Automatic language detection
 - GitHub OAuth authentication
 - Caption history and event management
